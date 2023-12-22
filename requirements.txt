@@ -61,6 +61,7 @@ distro==1.7.0
 distro-info==1.1+ubuntu0.1
 dj-database-url==0.5.0
 Django==4.1.7
+django-admin-honeypot-2==1.1.0
 django-allauth==0.51.0
 django-celery-beat==2.5.0
 django-celery-results==2.5.0
@@ -69,7 +70,10 @@ django-cors-headers==3.13.0
 django-environ==0.8.1
 django-filter==21.1
 django-heroku==0.3.1
+django-honeypot==1.1.0
+django-ipware==6.0.3
 django-js-asset==2.1.0
+django-redis==5.4.0
 django-rest-swagger==2.2.0
 django-sslserver==0.22
 django-storages==1.12.3
@@ -77,6 +81,7 @@ django-timezone-field==5.0
 django-widget-tweaks==1.4.12
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.1.0
+djangorestframework-xml==2.0.0
 dnspython==2.3.0
 docker==5.0.3
 docker-compose==1.29.2
@@ -246,6 +251,7 @@ python-debian==0.1.43+ubuntu1.1
 python-decouple==3.8
 python-dotenv==1.0.0
 python-gnupg==0.4.8
+python-ipware==2.0.1
 python-jose==3.3.0
 python-multipart==0.0.6
 python3-openid==3.2.0
